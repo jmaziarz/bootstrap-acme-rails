@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir["{lib,app}/**/*"] + ["LICENSE.txt", "README.md"]
   #spec.require_paths = ["lib"]
 
-  spec.add_dependency "railties""
+  spec.add_dependency "railties"
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
 end
