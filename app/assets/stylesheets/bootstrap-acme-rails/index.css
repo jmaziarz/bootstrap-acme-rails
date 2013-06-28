@@ -8,25 +8,25 @@
  * You're free to add application-wide styles to this file and they'll appear at the top of the
  * compiled file, but it's generally better to create a new file per style scope.
  *
- *= require bootstrap
- *= require bootstrap-responsive
- *= require style
- *= require jquery-ui-1.8.21.custom
- *= require fullcalendar
- *= require chosen
- *= require uniform.default
- *= require jquery.cleditor
- *= require jquery.noty
- *= require noty_theme_default
- *= require elfinder.min
- *= require elfinder.theme
- *= require jquery.iphone.toggle
- *= require uploadify
- *= require jquery.gritter
- *= require font-awesome
- *= require font-awesome-ie7
- *= require glyphicons
- *= require halflings
- *= require style-responsive
- *= require retina
+ *= require bootstrap-acme-rails/bootstrap
+ *= require bootstrap-acme-rails/bootstrap-responsive
+ *= require bootstrap-acme-rails/style
+ *= require bootstrap-acme-rails/jquery-ui-1.8.21.custom
+ *= require bootstrap-acme-rails/fullcalendar
+ *= require bootstrap-acme-rails/chosen
+ *= require bootstrap-acme-rails/uniform.default
+ *= require bootstrap-acme-rails/jquery.cleditor
+ *= require bootstrap-acme-rails/jquery.noty
+ *= require bootstrap-acme-rails/noty_theme_default
+ *= require bootstrap-acme-rails/elfinder.min
+ *= require bootstrap-acme-rails/elfinder.theme
+ *= require bootstrap-acme-rails/jquery.iphone.toggle
+ *= require bootstrap-acme-rails/uploadify
+ *= require bootstrap-acme-rails/jquery.gritter
+ *= require bootstrap-acme-rails/font-awesome
+ *= require bootstrap-acme-rails/font-awesome-ie7
+ *= require bootstrap-acme-rails/glyphicons
+ *= require bootstrap-acme-rails/halflings
+ *= require bootstrap-acme-rails/style-responsive
+ *= require bootstrap-acme-rails/retina
  */
