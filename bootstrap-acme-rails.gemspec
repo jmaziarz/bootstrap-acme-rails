@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap-acme-rails"
-  spec.version       = "1.1.1"
+  spec.version       = "1.1.1.1"
   spec.authors       = ["Jeremy Maziarz"]
   spec.email         = ["jeremy.maziarz@gmail.com"]
   spec.description   = "Asset Gem to wrap Bootstrap theme Acme"
