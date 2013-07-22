@@ -6,9 +6,9 @@ exploration. The asset pipeline will minify in production.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application's Gemfile (hasn't been added to RubyGems yet):
 
-    gem 'bootstrap-acme-rails'
+    gem 'bootstrap-acme-rails', git: 'https://github.com/jmaziarz/bootstrap-acme-rails.git'
 
 ## Usage
 
